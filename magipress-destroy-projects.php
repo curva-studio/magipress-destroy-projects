@@ -3,7 +3,7 @@
  * Plugin Name:       MagiPress - Destroy Projects
  * Plugin URI:        https://curva.studio
  * Description:       WARNING!: It will delete the MagiPress Bulk Post database table when the activate plugin button is pressed. After this plugin is activated, please deactivate and re-activate the Magipress plugin so that the system creates a new Magipress Bulk Post database table. After that, please delete the "Magipress destroy projects" plugin.
- * Version:           0.1.0
+ * Version:           0.1.1
  * Author:            Curva Team
  * Author URI:        https://curva.studio
  * License:           GPL-2.0+
